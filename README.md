@@ -1,2 +1,2 @@
 # customTabBarController
-Example of custom Tab Bar Controller by using Swift 4 and Xcode 9
+Example of creating custom Tab Bar Controller using Swift 4 and Xcode 9
